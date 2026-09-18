@@ -1,14 +1,3 @@
-Now updating the About section and adding a dedicated Academics section before Football:Now let's view the football section area to insert a new Academics section right before it, and move coursework there:Now inserting a full Academics section before Football, moving coursework there, and trimming the Business section:Now trim the Business section since coursework and some honors moved to Academics, and swap its accolades list to avoid duplication:Now let's touch up the closing quote to reflect an academics-first framing, then republish:Now republish the updated artifact:Updated. Here's what changed to shift the focus more academic:
-
-- **Name** is now Yashasvi Chauhan throughout.
-- **Hero** now leads with GPA and National Honor Society instead of the football stat line; the headline puts "Rigorous in the classroom" first.
-- **New dedicated Academics section** (before Football) with GPA, class rank, AP/Honors course count, Honor Roll years, academic accolades, and the coursework list moved here.
-- **About section** now opens with academics as the priority, football as secondary discipline-builder — and the two-column block puts "The Classroom" before "The Field."
-- **Business section** trimmed down to just the ventures/activities, since the academic credentials now live in their own section.
-
-Here's the full updated code:
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
