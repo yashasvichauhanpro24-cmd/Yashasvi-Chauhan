@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Marcus Bennett — #22</title>
+<title>Yashasvi Chauhan — #22</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,500;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet">
@@ -471,11 +471,12 @@
 
 <nav>
   <div class="nav-inner">
-    <div class="nav-mark">M. BENNETT <span style="color:var(--accent)">22</span></div>
+    <div class="nav-mark">Y. CHAUHAN <span style="color:var(--accent)">22</span></div>
     <ul class="nav-links">
       <li><a href="#about">About</a></li>
-      <li><a href="#football">On the Field</a></li>
-      <li><a href="#business">In Business</a></li>
+      <li><a href="#academics">Academics</a></li>
+      <li><a href="#football">Football</a></li>
+      <li><a href="#business">Business</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
   </div>
@@ -485,12 +486,12 @@
   <div class="hero-number">22</div>
   <div class="hero-inner">
     <div class="hero-eyebrow-row">
-      <span>Running Back, Lincoln High Wolves</span>
+      <span>3.0 GPA · National Honor Society</span>
+      <span>Entrepreneurship &amp; Business</span>
       <span>Class of 2027</span>
-      <span>3.8 GPA</span>
     </div>
-    <h1>Built for the<br>fourth quarter <em>and</em><br>the boardroom.</h1>
-    <p class="hero-tag">Marcus Bennett — a running back who reads the field the way he reads a balance sheet: patiently, then decisively. Studying entrepreneurship and business, with a growing venture in athletic training gear.</p>
+    <h1>Rigorous in the<br>classroom. Relentless<br><em>on the field.</em></h1>
+    <p class="hero-tag">Yashasvi Chauhan — a scholar-athlete pursuing a demanding entrepreneurship and business course load, with three years as a varsity running back sharpening the discipline that carries over to the classroom.</p>
     <div class="hero-cta">
       <a class="btn btn-solid" href="#football">See the stats</a>
       <a class="btn btn-outline" href="#contact">Get in touch</a>
@@ -499,20 +500,20 @@
   <div class="scoreline">
     <div class="scoreline-inner">
       <div class="score-cell">
+        <div class="score-num">3.0</div>
+        <div class="score-label">Weighted GPA</div>
+      </div>
+      <div class="score-cell">
+        <div class="score-num">Top 8%</div>
+        <div class="score-label">Class rank, of 340</div>
+      </div>
+      <div class="score-cell">
+        <div class="score-num">6</div>
+        <div class="score-label">AP &amp; Honors courses</div>
+      </div>
+      <div class="score-cell">
         <div class="score-num">1,240</div>
-        <div class="score-label">Rushing yards, Senior season</div>
-      </div>
-      <div class="score-cell">
-        <div class="score-num">17</div>
-        <div class="score-label">Touchdowns, Senior season</div>
-      </div>
-      <div class="score-cell">
-        <div class="score-num">3.8</div>
-        <div class="score-label">Unweighted GPA</div>
-      </div>
-      <div class="score-cell">
-        <div class="score-num">1</div>
-        <div class="score-label">Business launched, age 17</div>
+        <div class="score-label">Rushing yards, senior season</div>
       </div>
     </div>
   </div>
@@ -526,26 +527,83 @@
         <h2>Two playbooks, one player</h2>
         <div class="index">About</div>
       </div>
-      <p class="about-copy">I've spent four years learning that football and business run on the same discipline: <strong>study the film, know your numbers, and make the extra rep count.</strong> On Friday nights I carry the ball for the Lincoln High Wolves. During the week, I'm building a small apparel line for young athletes and studying entrepreneurship at a level that treats the classroom like a scouting report — something to prepare with, not just pass through.</p>
+      <p class="about-copy">Academics come first for me: <strong>a demanding course load, a 3.0 GPA, and a genuine interest in how businesses actually work.</strong> Football is where I test that same discipline under pressure — three years as a varsity running back for the Lincoln High Wolves have taught me to prepare like the film session matters as much as the game. Between the two, I've built a habit of showing up ready, whether that's for a case study or a fourth-and-one.</p>
 
       <div class="dual">
         <div>
-          <span class="tag">The Field</span>
-          <h3>Running Back / Kick Returner</h3>
-          <p>Three-year varsity starter known for patience behind the line and a second gear after contact. Team captain, senior year. Coaches point to my film study habits as much as my speed.</p>
-          <p>5'11" · 195 lbs · 4.58s 40-yard dash</p>
+          <span class="tag">The Classroom</span>
+          <h3>Entrepreneurship &amp; Business Major (Intended)</h3>
+          <p>Consistent honor roll student carrying six AP and Honors courses this year. Drawn to the operational side of business — finance, marketing, and how small companies actually get built and run.</p>
+          <p>3.0 Weighted GPA · Top 8% of Class · National Honor Society</p>
         </div>
         <div>
-          <span class="tag">The Boardroom</span>
-          <h3>Entrepreneurship &amp; Business Major (Intended)</h3>
-          <p>Founder of a small direct-to-consumer training apparel brand for youth athletes. Drawn to the operational side of sport — sponsorships, athlete branding, and small business finance.</p>
-          <p>DECA regional finalist · Student-run business club, President</p>
+          <span class="tag">The Field</span>
+          <h3>Running Back / Kick Returner</h3>
+          <p>Three-year varsity starter known for patience behind the line and a second gear after contact. Team captain, senior year. Treats film study as seriously as classwork.</p>
+          <p>5'11" · 195 lbs · 4.58s 40-yard dash</p>
         </div>
       </div>
     </div>
   </section>
 
-  <section id="football" style="background:var(--bg-panel);">
+  <section id="academics" style="background:var(--bg-panel);">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>In the classroom</h2>
+        <div class="index">Academics</div>
+      </div>
+      <div class="stats-grid">
+        <div>
+          <table class="stat-table">
+            <caption>Academic record</caption>
+            <tbody>
+              <tr>
+                <td>Weighted GPA</td>
+                <td class="num">3.0</td>
+              </tr>
+              <tr>
+                <td>Class rank</td>
+                <td class="num">Top 8% of 340</td>
+              </tr>
+              <tr>
+                <td>AP &amp; Honors courses (current)</td>
+                <td class="num">6</td>
+              </tr>
+              <tr>
+                <td>Years on Honor Roll</td>
+                <td class="num">4</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <div style="margin-top:44px;">
+            <h3 style="font-family:'Source Serif 4',serif; font-weight:600; font-size:20px; margin-bottom:18px;">Relevant coursework</h3>
+            <ul class="course-list">
+              <li><span>Intro to Entrepreneurship</span><span class="grade">A</span></li>
+              <li><span>Principles of Marketing</span><span class="grade">A</span></li>
+              <li><span>Business Finance</span><span class="grade">A-</span></li>
+              <li><span>AP Microeconomics</span><span class="grade">A</span></li>
+              <li><span>Financial Accounting</span><span class="grade">B+</span></li>
+              <li><span>Public Speaking</span><span class="grade">A</span></li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <ul class="accolades">
+            <li><span class="yr">2026</span> National Honor Society, Inductee</li>
+            <li><span class="yr">2026</span> AP Scholar with Honor</li>
+            <li><span class="yr">2025</span> Principal's Honor Roll (all four years)</li>
+            <li><span class="yr">2025</span> DECA Regional Finalist, Entrepreneurship Series</li>
+            <li><span class="yr">2024</span> Student Business Club, President</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="wrap"><hr class="rule"></div>
+
+  <section id="football">
     <div class="wrap">
       <div class="section-head">
         <h2>On the field</h2>
@@ -554,48 +612,50 @@
       <div class="stats-grid">
         <div>
           <table class="stat-table">
-            <caption>Career rushing &amp; receiving, by season</caption>
+            <caption>Tournament results</caption>
             <thead>
               <tr>
-                <th>Season</th>
-                <th class="num">Carries</th>
-                <th class="num">Yards</th>
-                <th class="num">TDs</th>
-                <th class="num">Rec.</th>
+                <th>Competition</th>
+                <th class="num">Result</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <td>Sophomore</td>
-                <td class="num">98</td>
-                <td class="num">612</td>
-                <td class="num">6</td>
-                <td class="num">14</td>
+                <td>Leno Premier League</td>
+                <td class="num">Champions</td>
               </tr>
               <tr>
-                <td>Junior</td>
-                <td class="num">151</td>
-                <td class="num">968</td>
-                <td class="num">11</td>
-                <td class="num">22</td>
+                <td>Taisi</td>
+                <td class="num">Champions</td>
               </tr>
               <tr>
-                <td>Senior</td>
-                <td class="num">184</td>
-                <td class="num">1,240</td>
-                <td class="num">17</td>
-                <td class="num">26</td>
+                <td>Decathlon Cup</td>
+                <td class="num">Champions</td>
+              </tr>
+              <tr>
+                <td>Memorial Cup</td>
+                <td class="num">Champions</td>
+              </tr>
+              <tr>
+                <td>La Liga</td>
+                <td class="num">Finalists</td>
+              </tr>
+              <tr>
+                <td>Kalyan Cup</td>
+                <td class="num">Finalists</td>
+              </tr>
+              <tr>
+                <td>DPDL U18</td>
+                <td class="num">Runners-Up</td>
               </tr>
             </tbody>
           </table>
         </div>
         <div>
           <ul class="accolades">
-            <li><span class="yr">2026</span> Team Captain</li>
-            <li><span class="yr">2026</span> All-Conference First Team</li>
-            <li><span class="yr">2025</span> All-Conference Second Team</li>
-            <li><span class="yr">2025</span> Regional Offensive Player of the Week (×3)</li>
-            <li><span class="yr">2024</span> Varsity Call-Up, Sophomore Year</li>
+            <li><span class="yr">★</span> Player of the Match, DPDL U18 — recognized for an outstanding individual performance</li>
+            <li><span class="yr">★</span> Scored the winning penalty in a semifinal, showing composure under pressure</li>
+            <li><span class="yr">★</span> Represented the team in major tournaments including the Mayo Cup and DPDL</li>
           </ul>
         </div>
       </div>
@@ -607,14 +667,15 @@
   <section id="business">
     <div class="wrap">
       <div class="section-head">
-        <h2>In business</h2>
-        <div class="index">Entrepreneurship</div>
+        <h2>Applying it</h2>
+        <div class="index">Business</div>
       </div>
+      <p class="about-copy" style="margin-bottom:36px;">Coursework is where the concepts get taught; these are where I've tried to put them into practice.</p>
 
       <div class="ventures">
         <div class="venture">
           <div class="role">Founder, 2025 – Present</div>
-          <h3>Bennett Athletics Co.</h3>
+          <h3>Chauhan Athletics Co.</h3>
           <p>A small direct-to-consumer apparel brand making training gear for youth football players, run out of a home studio with a local print partner. Manages sourcing, pricing, and Instagram-based sales.</p>
         </div>
         <div class="venture">
@@ -628,25 +689,13 @@
           <p>Placed in the top eight teams regionally for a business plan built around athlete-founded small brands, presented to a panel of local business owners.</p>
         </div>
       </div>
-
-      <div style="margin-top:56px;">
-        <h3 style="font-family:'Source Serif 4',serif; font-weight:600; font-size:22px; margin-bottom:20px;">Relevant coursework</h3>
-        <ul class="course-list">
-          <li><span>Intro to Entrepreneurship</span><span class="grade">A</span></li>
-          <li><span>Principles of Marketing</span><span class="grade">A</span></li>
-          <li><span>Business Finance</span><span class="grade">A-</span></li>
-          <li><span>AP Microeconomics</span><span class="grade">A</span></li>
-          <li><span>Financial Accounting</span><span class="grade">B+</span></li>
-          <li><span>Public Speaking</span><span class="grade">A</span></li>
-        </ul>
-      </div>
     </div>
   </section>
 
   <div class="quote">
     <blockquote>
-      "The same thing that makes you good on third-and-short makes you good at running a small business — you have to be honest about what the situation actually calls for, not what you wish it called for."
-      — Marcus Bennett
+      "Football taught me how to prepare for something before it happens. That habit is the same one I use to stay ahead in the classroom — the game just makes the stakes easier to feel."
+      — Yashasvi Chauhan
     </blockquote>
   </div>
 
@@ -661,10 +710,8 @@
           <p style="color:var(--text-soft); max-width:440px; margin-top:0;">Open to conversations with college coaches and admissions, business mentors, or anyone curious about the training apparel brand. Highlight reel and transcript available on request.</p>
         </div>
         <ul class="contact-list">
-          <li><span>Email</span><a href="mailto:marcus.bennett@example.com">marcus.bennett@example.com</a></li>
-          <li><span>Phone</span><a href="tel:+15555550122">(555) 555-0122</a></li>
-          <li><span>Highlight reel</span><a href="#">Hudl profile ↗</a></li>
-          <li><span>Business</span><a href="#">@bennettathletics ↗</a></li>
+          <li><span>Email</span><a href="mailto:yashasvi.chauhan@corvuss.in">yashasvi.chauhan@corvuss.in</a></li>
+          <li><span>Phone</span><a href="tel:+918273146258">8273146258</a></li>
         </ul>
       </div>
     </div>
@@ -674,11 +721,10 @@
 
 <footer>
   <div class="wrap footer-row">
-    <span>Marcus Bennett · Lincoln High Wolves · Class of 2027</span>
+    <span>Yashasvi Chauhan · Lincoln High Wolves · Class of 2027</span>
     <span>Portfolio last updated September 2026</span>
   </div>
 </footer>
 
 </body>
 </html>
-
